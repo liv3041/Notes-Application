@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Note</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_google">Continue with Google</string>
+
+    <string name="WEB_CLIENT_ID">116666624641914018591</string>
+    <string name="title">Notes Title</string>
+    <string name="timestamp">TimeStamp</string>
+    <string name="enter_note_title">Enter Note Title</string>
+    <string name="enter_note_description">Enter Note Description</string>
+</resources>
