@@ -1,4 +1,4 @@
-#Notes Application
+# Notes Application
 ### Android App with Firebase Authentication, Realtime Database and SQLite
 
 ### Tech Stack
@@ -21,7 +21,7 @@ https://github.com/liv3041/Notes-Application/assets/107946358/db01b702-4574-4fcb
 - MVVM Architecture for clean, maintainable and testable code
 - Firebase Realtime Database for storing User Info
 - One Activity three fragments
-- 
+  
 
   
   
